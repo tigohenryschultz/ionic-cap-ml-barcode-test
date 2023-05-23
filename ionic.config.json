@@ -1,0 +1,7 @@
+{
+  "name": "cap 5 test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
